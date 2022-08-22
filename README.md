@@ -1,4 +1,5 @@
 # FontConvert
+Virus free as of 8/22/2022 Using TrendMicro 21.600.1005
 
 Use this tool to create custom fonts from TTF fonts to the Adafruit_GFX library format. 
 
