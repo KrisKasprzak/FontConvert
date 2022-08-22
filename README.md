@@ -11,7 +11,11 @@ Use this tool to create custom fonts from TTF fonts to the Adafruit_GFX library 
 7. xxx.setFont(&HFileGFXFontName) // or whatever the const GFXfont name is
 
 
+Short YouTube video on usage
+https://youtu.be/L8MmTISmwZ8
 
+
+Examples
 ![header image](https://raw.github.com/KrisKasprzak/FontConvert/master/image.jpg)
 
 
